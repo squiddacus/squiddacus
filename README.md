@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'm currently learning the basics of becoming a software engineer.
-I am participating in a program that trains you up to become a SWE.
+I am participating in a program that trains you up to become a SWE. :)
